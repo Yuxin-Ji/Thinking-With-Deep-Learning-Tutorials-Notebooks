@@ -14,3 +14,11 @@ https://colab.research.google.com/github/Thinking-with-Deep-Learning-Spring-2024
 Notebook 2
 
 https://colab.research.google.com/github/Thinking-with-Deep-Learning-Spring-2024/Tutorials-Homework-Notebooks/blob/main/week%201/tutorial_2_intro_neural_nets.ipynb
+
+
+* My Homework
+
+Notebook 1
+
+https://colab.research.google.com/drive/1885kwOuIF-4g-zgM9oOnZ1Z3JraryEMZ#scrollTo=lH7vxPduZ2JM
+
